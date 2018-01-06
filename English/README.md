@@ -1,360 +1,160 @@
-# 学英语资源
-
-## 英语名著分级推荐
-
-### 入门级
-
-* **Romeo and Juliet**(William Shakespeare) 《罗密欧与朱丽叶》(威廉·莎士比亚)
-* **The Prince**(Machiavelli)《君主论》 (意大利文艺复兴时期作家马基雅维利)
-* **Pride and Prejudice**(Jane Austen)《傲慢与偏见》(19世纪英国小说家简·奥斯汀的代表作，出版于1813年)
-* **Animal Farm**(George Orwell)《动物庄园》(又译《动物农场》《动物农庄》，英国作家乔治·奥威尔的一部反乌托邦寓言小说)
-* **Great Expectations**(Charles Dickens)《远大前程》(又译《孤星血泪》，英国作家查尔斯·狄更斯晚年写成的教育小说)
-* **Lord of the Flies**(William Golding)《蝇王》(威廉·戈尔丁发表于1954年的寓言体小说)
-* **King Arthur and His Knights of the Round Table**(Green)《亚瑟王和他的圆桌骑士》(格林)
-* **The Good Earth**(Pearl S. Buck)《大地》(这是中国通作家。《水浒传》的英文译者赛珍珠创作的以20世纪初的中国为主题的作品)
-* **Hiroshima**(John Hearsey)《广岛》(美国作家约翰·赫西所作，书中没有直接描述的恐怖场景，也没有煽情与批判，只是真实的记录，却处处充满着死亡气息)
-* **A Connecticut Yankee in King Arthur's Court**(Mark Twain)《亚瑟王朝廷里的康涅狄格北方佬》(马克·吐温)
-* **The Joy Luck Club**(Amy Tan)《喜福会》(谭恩美的畅销作品，小说描述了圣弗朗西斯科的四个华人移民家庭的故事)
-* **The Pearl**(John Steinbeck)《珍珠》(美国作家约翰·斯坦贝克的一部短篇小说，出版于1947年)
-* **Daddy-Long-Legs**(Jean Webster)《长腿叔叔》(美国作家简·韦伯斯特于1912年发表的书信体小说，讲述了一个名叫茱蒂的孤女所经历的故事)
-* **Alas, Babylon**(Pat Frank)《唉，巴比伦》(帕特·弗兰克，一本畅销几十年的科学小说经典)
-* **The Sorrows of Young Werther**(Johann Wolfgang von Goethe)《少年维特的烦恼》(让德国文豪歌德几乎一夜成名的小说)
-* **How the Garcia Girls Lost Their Accent**(Julia Alvarez)《加西亚家的女孩不再带口音》(茱莉娅·阿尔瓦雷斯)
-* **Cherry Orchard**(Chekhov)《樱桃园》(俄罗斯剧作家契诃夫的最后一部剧作)
-* **The Diary of a Young Girl**(Anne Frank)《安妮日记》(安妮·弗兰克，此书是摘自安妮在纳粹占领荷兰时期所写的日记的内容，于战后由她幸存的父亲加以整理出版)
-
-
-### 初级
-
-* **Macbeth**(William Shakespeare)《麦克白》(威廉·莎士比亚最短的悲剧，也是他最受欢迎的作品)
-* **Oedipus Rex**(Sophocles)《俄狄浦斯王》(古希腊悲剧作家索福克勒斯于公元前427年根据希腊神话中俄狄浦斯的故事所创作的一出希腊悲剧，为希腊悲剧的代表作)
-* **Emma**(Jane Austen)《爱玛》(英国小说家简·奥斯丁的喜剧小说)
-* **Nineteen Eighty-Four**(George Orwell)《1984》(英国作家乔治·奥威尔于1948年创作的一部政治讽刺小说)
-* **Oliver Twist**(Charles Dickens)《雾都孤儿》(英国作家查尔斯·狄更斯的第二部作品)
-* **The Canterbury Tales**(Chaucer)《坎特伯雷故事集》(英国诗人乔叟的一部诗体短篇小说集)
-* **A Doll's House《玩偶之家》(Henrik Ibsen)**(挪威剧作家亨利克·易卜生1879年的剧作，也是他的代表作，又译《娜拉》)
-* **Things Fall Apart**(Chinua Achebe)《生命中的不可承受之重》(尼日利亚作家奇努阿·阿切贝)
-* **The Old Man and the Sea**(Ernest Hemingway)《老人与海》(美国作家欧内斯特·海明威于1951年写于古巴的一部中篇小说)
-* **To Kill a Mockingbird**(Harper Lee)《杀死一只知更鸟》(美国作家哈珀·李于1960年出版的小说，荣获当年普利策奖)
-* **The Call of the Wild**(Jack London)《野性的呼唤》(又名《荒野的呼唤》，作家杰克·伦敦于1903年发表的著名小说)
-* **Of Mice and Man**(John Steinbeck)《人鼠之间》(美国诺贝尔奖得主、作家约翰·斯坦贝克于1937年出版的短篇小说)
-* **The Crucible**(Arthur Miller)《萨勒姆的女巫》(原名《炼狱》，美国剧作家阿瑟·米勒在1953年创作的一部作品)
-* **Uncle Tom's Cabin**(Harriet Beecher Stowe)《汤姆叔叔的小屋》(又译《黑奴吁天录》《汤姆大伯的小屋》，美国女作家比切·斯托夫人于1852年发表的一部反奴隶制小说)
-* **Catch-22**(Joseph Heller)《第22条军规》(美国作家约瑟夫·海勒的代表作)
-
-### 中级
-
-* **King Lear**(William Shakespeare)《李尔王》(威廉·莎士比亚的著名悲剧)
-* **Iliad**(Homer)《伊利亚特》(又名《伊利昂记》，古希腊诗人荷马的六音步长短短格史诗)
-* **Jane Eyre**(Charlotte Bronte)《简·爱》(19世纪英国文学名著，作者为英国女作家夏洛蒂·勃朗特，于1847年出版)
-* **Waiting for Godot**(Samuel Beckett)《等待戈多》(塞缪尔·贝克特创作的一部荒诞派戏剧，讲述了弗拉第米尔和爱斯特拉冈二人徒劳地等待戈多的到来)
-* **A Tale of Two Cities**(Charles Dickens)《双城记》(英国作家查尔斯·狄更斯以法国大革命为背景所写成的一部长篇历史小说)
-* **Utopia**(Thomas More)《乌托邦》(托马斯·莫尔以拉丁语写成的一部书，有英译本)
-* **Remains of the Day**(Ishiguro)《长日将尽》(石黑一雄于1989年出版的作品，是大英帝国贵族阶级没落的一首挽歌，曾获布克奖)
-* **The Adventure of Tom Sawyer**(Mark Twain)《汤姆索亚历险记》(美国作家马克·吐温于1876年出版的一部著名的儿童文学作品)
-* **The Grapes of Wrath**(John Steinbeck)《愤怒的葡萄》(美国作家约翰·斯坦贝克于1939年出版的长篇小说，一部伟大的美国社会纪实文学)
-* **The Awakening**(Kate Chopin)《觉醒》(又名《孤独的灵魂》，凯特·肖邦于1899年出版的小说)
-* **Complete Tales and Poems**(Allan Poe)《爱伦·坡惊悚小说全集》(一部推理小说的经典)
-* **Death of a Salesman**(Arthur Miller)《推销员之死》(剧作家阿瑟·米勒于1949年完成的剧本，是20世纪一部相当具有影响力的戏剧)
-* **Gone with the Wind**(Margaret Mitchell)《飘》(玛格丽特·米切尔的小说，1937年获普利策奖，改编成电影《乱世佳人》，主演克拉克·盖博和费雯·丽，1939年获九项奥斯卡大奖)
-* **The Metamorphosis**(Kafka)《变形记》(奥地利德语作家卡夫卡的代表作，发表于1915年的一部中篇小说，有英译本)
-* **Crime and Punishment**(Dostoyevsky)《罪与罚》(俄国文学家陀思妥耶夫斯基的长篇小说，有英译本)
-* **All Quiet on the Western Front**(Erich Maria Remarque)《西线无战事》(德国作家埃里希·玛利亚·雷马克描述第一次世界大战的反战小说，后改编为著名电影)
-
-### 高级
+# 把你的英语用起来
 
-* **Hamlet**(William Shakespeare)《哈姆雷特》(又名《王子复仇记》，威廉·莎士比亚于1599—1602年间创作的一部伟大的悲剧)
-* **The Odyssey**(Homer)《奥德赛》(古希腊最重要的两部史诗之一，延续了《伊利亚特》的故事情节，相传为盲诗人荷马所作)
-* **Heart of Darkness**(Joseph Conrad)《黑暗之心》(约瑟夫·康拉德的一部中篇小说，讲述了在刚果河运送象牙的船员马洛的故事)
-* **Bleak House**(Charles Dickens)《荒凉山庄》(英国作家查尔斯·狄更斯发表于1852年和1853年之间的小说，也是他篇幅最长的作品之一)
-* **Paradise Lost**(John Milton)《失乐园》(英国诗人约翰·弥尔顿以《旧约圣经·创世纪》为基础创作的史诗，出版于1667年)
-* **The Great Gatsby**(F. Scott Fitzgerald)《了不起的盖茨比》(美国作家弗·司各特·菲茨杰拉德于1925年出版的短篇小说，被视为美国文学“爵士时代”的象征)
-* **On the Road**(Jack Kerouac)《在路上》(美国“垮掉的一代”作家杰克·凯鲁亚克创作于1957年的经典小说)
-* **The Sound and the Fury**(William Faulkner)《喧哗与骚动》(美国作家威廉·福克纳的第四部小说，也是他的成名作，出版于1929年，书名出自莎士比亚戏剧《麦克白》中第五幕第五场麦克白的著名独白)
-* **The Stranger**(Albert Camus)《异乡人》(诺贝尔文学奖得主阿尔贝·加缪1957年的得奖作品)
-* **Les Miserables**(Victor Hugo)《悲惨世界》(法国文豪维克多·雨果于1862年发表的长篇小说，19世纪最著名的小说之一)
-* **One Hundred Years of Solitude**(García Márquez)《百年孤独》(哥伦比亚作家加西亚·马尔克斯的作品，“魔幻现实主义”的代表作，在世界上享有盛誉)
+[学习路径]()
 
-## 适合学习英语口语的英文经典电影
 
-- [x] Forrest Gump(《阿甘正传》)
-主演：Tom Hanks(汤姆·汉克斯)
+WIP
 
-- [x] You've Got Mail(《电子情书》)
-主演：Tom Hanks(汤姆·汉克斯)Meg Ryan(梅格·瑞安)
 
-- [x] The Family Man(《居家男人》)
-主演：Nicolas Cage(尼古拉斯·凯奇)Tea Leoni(蒂娅·里欧妮)
+iOS Eudic 欧路词典
 
-- [ ] The Princess Diaries(《公主日记》)
-主演：Julie Andrews(朱丽·安德鲁斯)Anne Hatthaway(安妮·海瑟薇)
+一线
+词典推荐《新牛津英汉双解大词典》（注意， 不是词汇量较弱的“牛津高阶”） 和《美国传统英汉双解学习词典》 ， 英美两大权威双剑合璧， 词汇量与解释的质量都罕有敌手。 
 
-- [ ] The Runaway Bride(《逃跑的新娘 》)
-主演：Juliet Roberts(朱莉娅·罗伯茨)Richard Gere(理查·基尔)
+testyourvocab.com
 
-- [ ] Father of the Bride(《新岳父大人》)
-主演：Steve Martin(史蒂夫·马丁)Diane Keaton(戴安·基顿)
+教育类Podcast（网络播客） 中的 Grammar Girl（《语法女王》 ） 为何能排名前三甲， 受大部分英文母语群众欢迎？ 播讲者甚至上了《奥普拉脱口秀》 ， 出版的Grammar Girl书籍， 一面世就狂销了120万多册。
 
-- [ ] Bridget Jones's Diary(《BJ单身日记》)
-主演：Renee Zellweger(蕾尼·齐薇格)Hugh Grant(休·格兰特)
+逐级通关的口语训练
+ESLPOD、 EnglishPod、 AAT、 爱荷华大学的口腔剖面◇越来越流行的英文有声书Audiobook
 
-- [ ] Seabiscuit(《奔腾年代》)
-主演：Toby McQuaire(托比·马奎尔)
+三个关卡： 中级、 中高级和听说进阶。 完成三大任务： 慢速英文听力、 常速英语听力、 实用英文表达， 最后的目的是让你能轻松看懂各种原版美剧电影， 并且在工作中口头交流无障碍。
 
-- [ ] Monalisa's Smile(《蒙娜丽莎的微笑 》)
-主演：Julia Roberts(朱莉娅·罗伯茨)Julia Stiles(朱丽娅·斯蒂尔斯)Kristen Dunst(克尔斯滕·邓斯特)
+贯穿的学习方法
 
-- [x] Jerry Maguire(《甜心先生》)
-主演：Tom Cruise(汤姆·克鲁斯)Renee Zelleweger(蕾尼·齐薇格)
+（1） 英文听说透析法
+（2） 艾宾浩斯复习表格， 实时监控你的学习流程
 
-- [x] Remember the Titans(《热血强人》)
-主演：Danzel Washington(丹泽尔·华盛顿)
+中文里面播讲材料比较好的就是赖世雄老师的“美语从头学”讲座一套。
 
-- [x] Coach Carter(《铁血教练》)
-主演： Samuel Jackson(塞缪尔·杰克逊)
+eslpod English as a Second Language Podcast
 
-- [ ] Life As a House(《重建人生》)
-主演：Kevin Cline(凯文·克莱恩)Kristin Scott Thomas(克里斯汀·斯科特·托马斯)Hayden Christensen(海登·克里斯滕森)
+打开他们的官网， 你很容易就能找到他们的收费教材， 其中对我们比较有用的是以下几本：
 
-- [ ] The Legend of 1900(《海上钢琴师》)
-主演：Tim Roth(蒂姆·罗斯)
+- Introduction to the United States（《美国简介》 ）
+- A Day in the Life of Jeff（《杰夫的一天》 ）
+- A Day in the Life of Lucy（《露西的一天》 ）
+- Interview Questions Answered（《面试问题回答》 ）
+- English for Business Meetings（《英文会议》 ）
+- Using English at Work（《工作常用英文》 ）
 
-- [x] Liar Liar(《大话王》)
-主演：Jim Carrey(金·凯瑞)
+（1） ESLPOD六本教材简介
+本教材按照种类划分， 可以分成3大类， 下面我们来对每本教材稍微详细地介绍一下：
+第一类： 学术类
+Introduction to the UnitedStates（《美国简介》 ）Introduction to the United States 本书共100个音频， 每个音频8分钟左右， 由Jeff和Lucy两位老师穿插播报，播报模式很统一。 前6分钟是慢速内容，后两分钟是常速的内容， 两部分内容一模一样： 虽然名为常速， 但其实也是很容易的， 只比慢速的快一点点。 慢速用来仔细模仿跟读， 使正确的发音深入骨髓， 形成习惯， 快速的可以挑战下你的听力口语能力， 努力跟上。教材文本共200多页， 是整个系列教材中最厚的一本， 一本书相当于其他两三本的内容， 内容结构很简单。 与其说这本书是美国简介， 不如说是美国常识100问， 每个音频就是讲一个问题的答案， 100个问题涵盖了美国生活的方方面面。 但这些介绍， 并不是我们熟悉的那些所谓美国小常识之类的无聊问题， 什么美国天气如何啦、 美国人一般吃什么东西啦之类的， Jeff博士选取的问题， 都是最根本的、 你必须了解的东西， 我们节选前五个问题举例说明吧。
 
-- [x] About a Boy(《单亲插班生》)
-主演：Hugh Grant(休·格兰特)
+- What is the supreme law of the land?（美国本土的最高法律是什么？ ）
+- What does the Constitution do?（美国的宪法主要用途是什么？ ）
+- The idea of self-government is in the first three words of the Constitution. What are these words?（宪法中前三个字就提出来“民主政府”的概念， 请问是哪三个字？ ）
+- What is an amendment?（什么是宪法修正案？ ）
+- What do we call the first 10 amendments to the Constitution?（我们把宪法的前10条修正案称为什么？ ）
 
-- [ ] Alfie(《风流奇男子》)
-主演： Jude Law(裘德·洛)
+整本书涵盖了美国的政治制度、 法律、 经济、 地理、 日常生活等各个方面， 而且课程设置非常棒。 全书分成100课， 对应的是100个音频， 每一课都有附带的glossary（词汇表） 。 这个glossary也
+排列得非常完美， 全部都是英文解释英文， 对于培养直接的英文即时反应能力和英语语感的帮助特别大。 本书比较适合英语专业或者需要去美国留学的同学学习， 可以在很大程度上达到美国常识扫盲的作用， 但对美国的情况不太感兴趣的同学就不是特别适合了。
 
-- [ ] Patch Adams(《妙手情真》)
-主演： Robin Williams(罗宾·威廉姆斯)
+第二类： 生活类
 
-- [ ] Bicentennial Man(《变人》)
-主演： Robin Williams(罗宾·威廉姆斯)
+A Day in the Life of Jeff（《杰夫的一天》 ） A Day in the Life of Lucy（《露西的一天》 ）A Day in the Life of Lucy一本是男生的一天， 一本是女生的一天。 课程设置的目的很简单： Jeff博士在前言中说的， to teach you everyday vocabulary, from getting up in the morning to going to bed at night[2]， 教会一个普通人每天都要遇到的场景和场景下的词汇与表达法。 从每天的起床开始， 讲到一天结束， 上床睡觉， 中间遇到的任何场景下设计的表达法都会进行细致讲解。 课程分成三个部分， 慢速的课文朗读， 然后是针对课文里面难点单 词和短语的讲解， 最后是常速的课文朗读。
 
-- [x] As Good as It Gets(《尽善尽美》)
-主演：Jack Nickelson(杰克·尼科尔森)Helen Hunt(海伦·亨特)
+A Day in the Life of Jeff一共有10课，共3个小时， 讲述的是Jeff的一天， 里面的单词对男生来说非常实用， 都是你平时在课本中难见到、 看美剧又不太会注意到的， 比如说洗手间的水槽sink、 漱口gargle、 牙线floss、 洗完头发的漂洗动作rinse、 电动剃须刀electric razor、一次性刀片disposable blades、 腰带扣buckle等。 基本上学完了这本书， 和男生平时活动有关的表达方法就都会了。
 
-- [ ] The Perfect Man(《完美男人》)
-主演： Hilary Duff(希拉里·达芙)Chris Noth(克里斯·诺斯)
+A Day in the Life of Lucy格式和内容都和A Day in the Life of Jeff类似， 但是单词主要是关于女孩子的生活， 比如说吹风机hairdryer、 卫生棉tampon、 护发素conditioner、 泡泡浴bubble bath、 睫毛膏mascara、 眼影eye shadow、 刘海bangs、 连裤袜pantyhose等。
 
-- [ ] The Wedding Date(《婚礼男友》)
-主演：Debra Messing(戴博拉·梅西)Dermot Mulroney(德莫特·麦隆尼)
+这两本书编排得非常棒， 而且非常生活化和实用， 建议想要提高生活化口语的同学购买这两本。
 
-- [x] What Women Want(《男人百分百》)
-主演：Mel Gibson(梅尔·吉布森)Helen Hunt(海伦·亨特)
+第三类： 商务类
+A． Interview Questions Answered（《面试问题回答》 ）Interview Questions Answered 这本是我见过最好的有关英文面试
+的教材， 全书共80页， 目的就是to teach you the English you need to know to have a successful interview（教会你有关英文面试的一切） 。 书里面涉及的问题都是 英文面试中最常见的问题， 全书一共有三个音频， 共分成了6课。 每一课分成了4个部分： 首先， 本书会提供给你一些很重要的tips（小提示） ， 来怎么回答这些问题； 然后， 录音会提供给你两个比较好的针对问题的回答例子， 这些回答都
+是使用他们提供的tips来成功回答的， 每个范例都是用慢速朗读一遍； 接着是Jeff 博士针对每个回答的重难点语句和生词讲解； 最后是常速地把问题答案朗读一遍。 每一课都有对应的PDF， 包含了所有的tips、 所有的生词表以及讲解录音的全文。
 
-- [x] Big Daddy(《老爸向前冲》)
-主演：Adam Sandler(亚当·桑德勒)
+书中提到的面试六大问题包括：
+a． Tell me about yourself.（自我介绍）
+b． Why did you leave your last job?/Why are you looking for a new job?（为什么辞去你上一份工作？ /为什么要找一个新工作？ ）
+c． Why do you want to work here? （你对我们这份工作的意向度如何？ ）
+d． Where do you see yourself in five years?（你5年内的职业规划如何？ ）
+e． What are your strengths?（你最擅长什么？ ）
+f． What are your weaknesses?（你不擅长什么？ ）
 
-- [x] Big Fish(《大鱼》)
-主演：Evan Mcgregor(伊万·麦格雷戈)
+这六大问题确实是HR面试时最常用的六个问题， 每个问题书中都揉碎了细细讲述。 这本书特别好的地方就在于，它不像任何一本所谓的“商务英语”书籍， 纯粹是为了教英文而教英文， 它的tips教给你的不是英文， 而是谈话技巧和说话策略， 来帮助你顺利回答好问题。它提供的面试问题回答范例， 都是最地道的英文表达， 而且也是非常好的参考范例。 这些内容国内没有任何一本商务英文书籍提及过， 商务英语老师也没教
+过——大部分老师都没有在商业公司工作过的经验， 其实他们自己都不知道应该怎么去面试。
 
-## 经典美剧、英剧推荐
+从这本书里也可以学到很多跟商务有关的词汇， 比如说大学专业major in、实习internship、 高效effectively、 结果导向resultoriented、 考核evaluation等。
 
-### 十大适合学习听说的美剧
 
-- [x] Friends(《老友记》)
-类型： 喜剧 / 爱情
+2.3 第二关： 突破常速多口音的EnglishPod（中高级）
 
-- [ ] The Big Bang Theory(《生活大爆炸》)
-类型： 喜剧
+请先抽出两周的时间来看这两个材料。
+（1） American PronunciationWorkshop（美语发音教程， 以下简称APW）
+APW是一套非常详尽的美语发音视频教程， 专门针对世界各地的外语学习者在发美音时遇到的一些困难， 然后逐一加以排除和纠正。 主持人Paul Gruber 是世界知名的美国发音病理诊断专家（speech language pathologist） ， 在他的帮助下， 诸多南非、 阿拉伯和欧洲国家的学生学好了较难的发音， 并真切地感受到了英文优美的节奏感。 在我的小站中， 我们的很多学员都表示说这个视频是他们见过最好的发音视频， 没有之一。
 
-- [ ] Modern Family(《摩登家庭》)
-类型： 喜剧 / 家庭
+（2） 爱荷华大学的口腔剖面
 
-- [ ] Sex and the City(《欲望都市》)
-类型： 喜剧 / 爱情
+2.3.2 第二个环节： 常速多口音的搞怪材料：EnglishPod（2∼3个月）
 
-- [ ] Desperate Housewives(《绝望主妇》)
-类型： 剧情 / 喜剧 / 爱情
+慢速英文的速度在80个词／分钟左右， 而常速英文则是140 - 160个词／分钟， 几乎是快了一倍， 还夹杂了大量的连读、 弱读、 失去爆破和绚丽的语调。
 
-- [ ] Gossip Girl(《绯闻女孩》)
-类型： 剧情 / 爱情
+理想中的中高级学习材料， 应该是语速在100 · 120个词/分钟， 词汇量在4000∼6000个， 这样才是合理过渡的“可理解性输入材料”， 但这样的材料在市面上很难找得到。
 
-- [ ] Broke Girls(《破产姐妹》)
-类型： 喜剧
+材料：EnglishPod 公司叫作Praxis Language Marco
 
-- [ ] Brothers and Sisters(《兄弟姐妹》)
-类型： 剧情
+（5） 学习方法
+EnglishPod的期数挺多的——365期， 我们也强烈推荐你都学完， 但是3个月内全部学完不太可能， 所以我们精选了100期， 每天一期， 通过一个deeplearning（深入学习） 和narrow input（狭
+窄输入） ， 来使自己英文听说能力彻底上一个台阶吧！ 书本附录
 
-- [ ] The Vampire Diaries(《吸血鬼日记》)
-类型： 剧情 / 奇幻 / 恐怖 / 爱情
+2.4 第三关： American Accent Training（《标准美语发音的13秘诀》 ） （高级）
 
-- [ ] Will and Grace(《威尔和格蕾丝》)
-类型： 喜剧 / 同性
+《标准美语发音的13秘诀》 
 
-### 20大经典美剧
 
-- [ ] Seinfeld(《宋飞正传》)
-类型： 喜剧
+2.5 英文语法的学习
 
-- [ ] The Sopranos(《黑道家族》)
-类型： 犯罪 / 剧情 / 惊悚
+到目前为止， 经过半年左右的时间， 你已经可以傲到听力、 口语都流畅的程度了， 虽然听说关卡没有彻底打通， 但基本上已经没有大碍了， 以后的学习也定会一日千里。
 
-- [ ] Prison Break Season(《越狱》)
-类型： 动作 / 犯罪 / 剧情 / 惊悚
+我们这里只推荐一本语法书： 台湾的旋元佑老师写的《文法俱乐部》 （简体版名为《语法俱乐部》 ） 。 这本书因为出版社倒闭而绝版， 淘宝可以买到影印的版本
 
-- [ ] Rome(《罗马》)
-类型： 动作 / 剧情 / 历史 / 爱情 / 战争
+选做练习， 补充习题册：
+《剑桥中级英语语法》 的教材， 这本书中提供的例句都是语料库中精选出的真实语境下的例句， 很实用。 如果你真的读完了《文法俱乐部》 ， 再做完这本书， 你会发现， 做这本书的题都是小菜一碟， 以后考试再也不怕， 推荐购买全英文版。English Grammar in Use
 
-- [ ] Lost Season(《迷失》)
-类型： 冒险 / 剧情 / 悬疑 / 科幻 / 惊悚
+**如果自测不合格：美语从头学”一套， 外文出版社出版， 蓝白封面带CD， 如果有红色的， 那是可以拆下来的腰封。**
 
-- [ ] 24 Hours(《24小时》)
-类型： 动作 / 犯罪 / 剧情 / 悬疑 / 惊悚
 
-- [ ] The X-Files(《X档案》)
-类型： 剧情 / 悬疑 / 科幻 / 惊悚
+有声读书 Audiobook
+作者推荐：
 
-- [ ] The Wire(《火线》)
-类型： 剧情 / 犯罪 / 惊悚
+最简单的是上www.audible.com这个网站， 这是亚马逊的官方有声读物网站， 几乎涵盖了市面上所有的有声书， 而且提供了大量的试听。 你如果不确定听哪本， 可以试听下看看朗读者是不是自己感兴趣的， 同时可以参考世界各地其他读者们的打分再决定。在这里呢， 笔者只说说自己当年印象深刻， 比较适合入门的书籍：
 
-- [ ] Band of Brothers(《兄弟连》)
-类型： 剧情 / 动作 / 历史 / 战争
+（1） 最完全符合入门条件的， 当然是上面提到的I Capture the Castle（《我的秘密城堡》 ） ， 虽然书到最后玛丽苏+狗血， 但我还是不能舍弃Emilia Fox的夜莺嗓音。
+（2） 同样是Emilia Fox朗读的作品， Never Let Me Go（《别让我走》 ） ， 她真正诠释了忧伤这个词， 但因为书的内容问题， 这书不太适合反复听， 老是令人黯然泪下， 太虐心了。
+（3） Grace Lin写的Where theMountain Meets the Moon（《月夜仙踪》 ） ， 讲的是中国村庄的神话故事，书写得极优美， 中国元素非常浓厚， 文笔却非常简单。 这本书是当年NewberyMedal（纽伯瑞奖） 的大奖得主， audiobook非常好， 这本书很适合童心未泯的人。
+（4） 王尔德的童话， HappyPrince（《快乐王子》 ） 等， 这个我就不多提了， 太虐心了。
+（5） 科幻作品I, Robot（《机械公敌》 ） ， Scott Brick朗读版本公认最好，此公是新晋的美国有声书大师， 目前已读完600多本书， 我知道唯一比他多的朗读者是Simon Vance, 800多本， 就连美音有声书的天下第一高手Frank Muller也只能以300多本而甘拜下风。 Scott的宽广声线很适合科幻， 那本著名的《云图》 也是由他朗读。 而说到I, Robot， 书本身就写得很简单， 用词句式很浅显， 故事却感人至深， 朗读得更是缓慢， 是入门的不二之选。
+（6） Percy Jackson（“波西·杰克逊”） 系列——朗读者的诠释不错， 很容易让人想象场景， 对打斗的描写也绘声绘色， 书写得足够简单。（7） Artemis Fowl（“精灵事件簿”） 系列——书写得非常浅显和风趣，故事引人入胜， 朗读者功底极为深厚，为本书增色了不少。 模仿口音无一不是绘声绘色、 精彩绝伦， 唯一的缺点是爱尔兰口音太重， 可能不太适合听力基础一般的同学欣赏。
+（8） Stephen Fry朗读的HarryPotter（“哈利·波特”） 系列， HavyPotler系列的audiobook有两个版本， 一个是Jim Dale朗读的， 一个是Stephen Fry读的， 两者皆为英音。 Fry朗读的版本比Jim Dale那个版本容易得多， 语音沉静动听， 是男生学习RP（英式口音） 的不二之选， BBC腔调很浓厚， 有点类似慢速的BBC的语速， 但戏剧化不够强烈， 似乎不能很好地演绎出“哈利·波特”的神奇世界。 有兴趣的同学可以尝试Jim Dale那一版， 但老Jim读得太快了， 不太适合新人入门。
+（9） Neil Gaiman先生的所有图书——Neil的书多由他自己朗读， 写作内容多为想象力奇趣的童话， 不管是Graveyard Book（《坟场之书》 ） 还是Caroline（《卡罗兰》 ） ， 此公真正做到了用最简单的单词和最浅显的句子结构写最绚丽的童话。 我至今还记得，在我刚接触原版书的时候， 在所有作家中， Neil的书是唯一一个让我从头到尾不查字典就能读下去的作品， audiobook朗读得也相当不错。
+（10） 女生可以选择NicholasSparks这个人写的书， 书籍浅显易懂，浪漫异常， 且主题不偏不倚， 一般女生都爱他。 建议他的书都盲听， 听完书本之后选择最喜欢的一本反复阅读和听来积累单词， 比如《瓶中信》 （Messagein a Bottle） 、 《分手信》 （DearJoho） 等。
+（11） 女生还可尝试BenedictCumberbatch读的Casanova（《卡萨诺瓦》 ） 删节本， 这本书是公认的VoicePorn（声音毒药， 令人无法自拔） ， 而且朗读者是著名英剧《神探夏洛克》 的主角， 相当多的女粉丝热爱这本书。除了笔者个人的这几个推荐外， 我们还认为最好的有声书入门方法是当花痴——疯狂地崇拜某位明星， 然后找他读过的书来听， 从花痴慢慢转为书痴。不要惊讶哦， 欧美很多明星都是朗诵的大师， 因为他们的职业关系， 在语言功底上较常人有较强的天赋， 往往能把声音、 语气、 语调等元素拿捏得恰到好处。英美的演员中很多人都有大批量的有声书作品， 连007的配角M的饰演者朱迪·丹奇都有诗集朗诵， 英伦大帅哥裘德·洛也读过拜伦哥那首著名的She Walks inBeauty《她在美中行》 ， 《神秘博士》的扮演者David Tennant也读过《驯龙记》 ， 萌得让人心都碎了。 在美国演员中， 《爱在黎明破晓前》 的主角EthanHawk出过有声书， 美剧《波士顿法律》的主角Alan Shore的饰演者James Spader也读过一本Dean Knooltz（丁·昆士） 的书。 如果你迷恋哪位演员的声音， 去Audible搜索下他的名字， 就可以找到大堆大堆的有声书信息。 以下我们就简单介绍一些有声书作品较为出名的英美演员。
 
-- [ ] The Pacific(《太平洋战争》)
-类型： 剧情 / 动作 / 历史 / 战争 / 冒险
+- Anne Hathaway（安妮·海瑟薇）《公主日记》 这部电影相信很多女孩子都看过了， 原书是10本小说， 以女孩子的日记体写成。 作者Meg Cabot是全美赫赫有名的Young Adult（青少年） 小说大家， 擅长以白描手法， 生动阐述青春期女孩子的特有情思， 每本书都做到了创意、 深度、 情节和真挚情感的结合。电影和原著有很大的不同， 但一样精彩， 历时8年的有声系列由两个朗读者先后完成， 前3部由影片主演AnneHathaway朗读， 其余由Clea Lewis朗读。两人皆是女声， 美音， 声线年轻、 吐字清楚、 演绎生动， 两者的表现各有千秋， 是极佳的入门听力读物。 两人的朗读均受到读者的肯定。
+- Benedict Cumberbatch（本尼迪克特·康伯巴奇）Benedict Cumberbatch又简称BC， 此人乃是BBC当红热播剧《神探夏洛克》的男主角， 因为此剧每季只有三集， 加上充满了同志（gay） 味儿， 所以又被称为“三集片”， 这是近几年来我看过最酷的一部电视剧。他朗读的作品很多， 文学味儿很浓， 所以相对适合入门的书也就不多——文学味儿重的书籍都比较难。 我们这里推荐女孩子去听他朗读的那本删节版的《卡萨诺瓦》 ， 因为此人的声音被称为voice porn， 对女生有着天然的吸引力， 几乎没有女生能对他的声音有任何抵抗能力。BC的声音可以说是非常优秀的， 不管是天然的声线还是后天自己对文学作品气氛的把握和诠释， 他都是当之无愧的宗师级朗读者。 所以有大批脑残粉写信给BBC， 强烈要求BBC重新录制福尔摩斯原版的有声书——虽然现在网路流行的那一版John Telfer朗读得也非常好，但是， 如果能再出一版BC朗读的， 那真是令人心动， 我也作为脑残粉奋不顾身地签名了， 期待BBC在未来能够满足我们的愿望吧……
+- Martin Freeman（马丁·弗里曼）说到福尔摩斯， 那么不得不提他的好友华生了。 在BBC的《神探夏洛克》中， 华生由Martin Freeman主演， 又被粉丝们称为“小自由”——名字有free（自由） 这个单词。小自由除了出演过《神探夏洛克》之外， 还主演过一部神级科幻电影——《银河系搭便车指南》 ， 也叫作《银河系漫游指南》 。 很幸运的是， 这套书的2∼5部都由他朗读， 但搞笑的是， 他本人主演的电影仅仅是改编了小说的第一部而已， 和第二部到第五部都没多大关系。小自由朗读的《银河漫游指南》 算是这套书的audiobook版本中最优质的了， 还有一版是作者道格拉斯自己读的， 效果并不是特别好， 不推荐。
+- Stephen Fry（斯蒂芬·弗雷）上面提到小自由朗读了《银河系漫游指南》 的2∼5部， 有人会好奇第一部谁读的， 就是这位Stephen Fry了， 因为名字中有Fry（油炸） 这个单词， 所以粉丝们都亲切地称呼他为“油炸叔”。油炸叔的audiobook本本都是精品，基本上只要听到read by Stephen Fry或是harrated by Stephen Fry这几个字， 那么书就一定是listening pleasure（语音盛宴） ， 绝对没错。 我们这里推荐他朗读的几本代表作：
 
-- [ ] Boardwalk Empire(《大西洋帝国》)
-类型： 剧情 / 历史 / 犯罪
+（1） Harry Potter全集， 这套书上面也简单介绍过， 这书有两个版本， JimDale那个版本戏剧性强， 塑造人物较为成功， 但是语调容易让人发腻。 而油炸叔本人的声线沉静动听， 令人久听不厌， 适合反复精听， 对英式口音有兴趣的同学可以反复听， 细细揣摩油炸叔的很多发音细节。
+（2） 《维尼熊》 ， 很可爱的一本书， 童心未泯的人可以试试。
+（3） 《银河系漫游指南》 第一本，这本个人觉得比小自由读的2∼5本都要好， 听得我笑得面部抽搐——书写得极为荒诞， 你能想象主人公家要被政府强拆的时候外星人突然降临地球宣称要强拆地球吗？
+（4） Oscar Wilde’s Short Stories（王尔德的一些短篇） 。
+（5） Roald Dahl[5]的Mr. Fox（《福克斯先生》 ） 和其他一些小故事， 油炸叔朗读了一些Dahl先生的作品， 都很好玩。油炸叔的朗读作品颇多， 有兴趣的话可以去豆瓣油炸叔的小组深入了解下。 他是英伦老牌绅士的典型代表， 口音也是最标准的英伦RP。 这里简单科普下， 国际意义上的英式发音是指RP（received pronunciation） ， 这个和伦敦音差异很大， 通常伦敦音是指东伦敦区的cockney（伦敦方言） 口音， 贫下中农口音， 属于uneducated accent（未受教育的口音） ， 操这种口音的人社会阶层不会很高， 底层白领、 普通工人或者足球流氓等都是这种。 贝克汉姆是说这种口音的代表， 长大后花大力气雇老师改了， 不过去酒吧喝两口小酒， 还是会不自觉地冒出来——有兴趣请看看电影《两杆大烟枪》 ， 里面的对白通篇都是cockney。换言之， audiobook这种事情好歹是读书人的爱好， 绝对不会有人用cockney口音来朗读全书的——除非书中有些人来自特定的英伦地区， 朗读者会用当地的特色口音来演绎。 所以基本上想找说标准RP口音的audiobook容易找， 找伦敦音的audiobook就很难了。
 
-- [ ] House of Cards(《纸牌屋》)
-类型： 剧情
+- Ralph Fiennes（拉尔夫·范恩斯）Ralph Fiennes因为出演过HarryPotter中的伏地魔一角， 所以被称为“大魔王”。 他的有声作品较少， 卖座的只有一部The English Patient《英国病人》 ，而且还是abridged删节版， 但是效果非常出色， 比unabridged完整版好太多， 在audible上的打分也很高。
+- Dan Stevens（丹·史蒂文斯）Dan Stevens因出演著名英剧《唐顿庄园》 中的表哥而得外号“大表哥”， 另一外号是“丹丹龙”， 其人长得英俊有才气， 女粉丝很多。 他读过很多书， 我们这里推荐最出名的一本： 电影《战马》的原著小说。值得一提的是， Dan Stevens的发音目前算是英伦男演员中最为动听标准的一位。 可能因为个人兴趣不同， 有人会觉得BC的声音难以接受， 但几乎人人都认为Dan说话最具气质， 如果有同学觉得油炸叔和BC的声音过于浑厚， 可以选择Dan的有声作品练习模仿。
+- David Tennant（大卫·田纳特）David Tennant一般被粉丝简称DT，在国内的科幻迷中享有盛誉， 因为他曾出演过英国历史上最伟大的电视剧集之一Doctor Who（《神秘博士》 ） 中的第十代博士， 跟九代并称为演得最好、 最具特色的两位博士， 深受老中少三代的男女粉丝的喜爱。推荐他朗读的How to Train YourDragon（《驯龙记》 ） 。DT的苏格兰口音非常非常萌， 里面模仿小龙嗷嗷叫的声音真是让人受不了。 这套书读得非常棒， 而且很适合入门， 因为是童书嘛， 所以语句也很浅显生动。此外， 他还读过好几本DoctorWho电视剧剧组出版的有声书， 一样很棒， 因为原版的Doctor读这个， 驾轻就熟。
+- Alan Rickman（艾伦·里克曼）Alan Rickman因出演Harry Potter中的混血王子而在世界出名， 他正是我们大名鼎鼎的斯内普教授， 粉丝称呼其为“王子”和“教授”。Alan的口音虽然也是标准的RP， 不过因为鼻音较重， 我不是特别喜欢他，觉得不如油炸叔那样容易让人接受， 他读过哈代的《还乡记》 ， 在audible上评分还挺高。
+- Emilia Fox（艾米丽雅·福克斯）Emilia Fox是我个人最喜欢的一名演员， 声音优雅纯净， 如同夜莺一般。 如果有女孩子喜欢英音， 她是可供模仿的不二人选。 她的有声作品颇丰， 较出名的有三本： Pride and Prejudice, I Capturethe Castle， 还有Never Let Me Go。以上是我个人比较熟悉的演员作品， 如果你有特别喜欢的明星， 去audible.com找到他／她的书， 听下去。听不懂也听下去， 慢慢听懂的就会越来越多， 突然有一天世界安静了， 每个字都清晰地呈现在耳边， 什么都串联起来了。 这个， 就是欣赏英文的韵律之美，享受最高级的读书乐趣了。听完了入门的一些书籍之后， 我建议还是要多接触大师类作品， 深切体会那种在朗读者迷人声线中入迷的感觉。比如Scott Brick， 他的《基地和机器人》 令我印象深刻。比如Juliet Stevenson, Samule West，都是一听耳朵就立刻惊艳的大牌朗读者。比如Frank Muller， 想听有声书， 这人是绕不开的一环， 他朗读了大量的古典名著和畅销书， 尤其是奇幻巨著TheDark Tower（“黑暗塔”系列） ， 真是让人如痴如醉。比如John Lee， 他的两本大仲马的作品（《三个火枪手》 和《基督山伯爵》 ） 真是余声绕梁三日不绝啊！有了这些audiobook， 你会觉得能活着、 能懂英文， 这是一件多么幸运的事情。
 
-- [ ] OZ(《监狱风云》)
-类型： 犯罪 / 剧情 / 惊悚
 
-- [ ] House M.D.(《豪斯医生》)
-类型： 剧情 / 悬疑
+Part 03 透析法大战英文原著
 
-- [ ] Breaking Bad(《绝命毒师》)
-类型： 剧情 / 犯罪
+3.4.2 进军短篇， 读尽天下英语新闻
 
-- [ ] True Blood(《真爱如血》)
-类型： 剧情 / 奇幻
 
-- [ ] Grey's Anatomy(《实习医生格蕾》)
-类型： 剧情 / 爱情
-
-- [ ] CSI: Crime Scene Investigation(《犯罪现场调查》)
-类型： 犯罪 / 剧情 / 悬疑 / 惊悚
-
-- [ ] The Walking Dead《行尸走肉》)
-类型： 剧情 / 恐怖
-
-- [ ] Game of Thrones(《权力的游戏》)
-类型： 剧情 / 奇幻 / 冒险
-
-### 八大经典英剧
-
-- [ ] Sherlock(《神探夏洛克》)
-类型： 剧情 / 悬疑 / 犯罪
-
-- [ ] Sense and Sensibility(《理智与情感》)
-类型： 剧情 / 爱情
-
-- [ ] State of Play(《政局密云》)
-类型： 剧情 / 悬疑 / 犯罪
-
-- [ ] Skins(《皮囊》)
-类型： 剧情 / 喜剧 / 爱情
-
-- [ ] The IT Crowd(《IT狂人》)
-类型： 喜剧
-
-- [ ] Downton Abbey(《唐顿庄园》)
-类型： 剧情
-
-- [ ] Black Mirror(《黑镜》)
-类型： 剧情 / 科幻 / 惊悚
-
-- [ ] Life on Mars(《火星生活》)
-类型： 剧情 / 科幻 / 悬疑 / 犯罪
-
-
-## 79首最适合学习听说的英文歌曲
-
-正在创建网易云音乐歌单：《79首最适合学习听说的英文歌曲》
-
-- [x] God is a Girl(《上帝是个女孩》)
-- [x] Hand in Hand(汉城奥运会主题曲《手拉手》)
-- [x] My Heart Will Go On(《我心永恒》)
-- [x] Song Sung Blue(《唱首忧郁的歌》)
-- [x] Tie A Yellow Ribbon Round the Old Oak Tree(《老橡树上的黄丝带》)
-- [x] Rhythm of the Rain(《雨韵》)
-- [x] If You Love Me(《如果你爱我》)
-- [x] Crying in the Rain(《雨中哭泣》)
-- [x] The Sound of Silence(《寂静之声》)
-- [x] Lemon Tree(《柠檬树》)
-- [x] Where Have All the Flowers Gone(《花落何处？》)
-- [x] Let It Be(《顺其自然》) [The Beatles 下架了]
-- [x] Yesterday Once More(《昨日重现》)
-- [x] Dear Heart(《甜心》)
-- [x] Cotton Fields(《棉花田》)
-- [x] Whispering Pines(《松树耳语》) (不确定是否是 The Band的？)
-- [x] The End of the World(《世界末日》)
-- [x] My Hometown(《我的家乡》)
-- [x] The River of no Return(《大江东去》)
-- [x] Tennessee Waltz(《田纳西华尔兹》)
-- [x] San Francisco(《旧金山》)
-- [x] Bridge over Troubled Water(《恶水上的大桥》)
-- [x] Let It Be Me(《我想与它同在》)
-- [x] Edelweiss(《小白花》)
-- [x] I Can't Stop Loving You(《无法停止爱你》)
-- [x] Only You(《只有你》)
-- [x] Seven Lonely Days(《七个寂寞的日子》)
-- [x] Raindrops Keep Falling on My Head(《我在雨》)
-- [x] Somewhere My Love(《我爱的……》)
-- [x] Stop! Stop! Stop!(《恋爱百分百》的英文版)
-- [x] Dance on, Little Girl(《来！跳舞！女孩》)
-- [x] More than I Can Say(《爱你无语》)
-- [x] Rose, Rose, I Love You(《玫瑰之恋》)
-- [x] Yellow River(《黄河镇》)
-- [x] The Way We Were(《往日情怀》)
-- [x] North to Alaska(《北上阿拉斯加》)
-- [x] Sealed with a Kiss(《以吻封缄》)
-- [x] Take Me Home Country Roads(《乡村路带我回家》)
-- [x] Please Mr. Postman(《邮差先生》)
-- [x] The Mansion You Stole(《你偷走大厦》)
-- [x] Release Me(《放开我》)
-- [x] The Last Waltz(《最后的华尔兹》)
-- [x] I Don't Like to Sleep Alone(《孤枕难眠》)
-- [x] Imagine(《想象》)
-- [x] I'll Never Fall in Love Again(《不再坠入情网》)
-- [x] Killing Me Softly with His Song(《轻歌销魂》)
-- [x] Devoted to You(《热爱着你》)
-- [x] Snowbird(《雪鸟》)
-- [x] Blowing in the Wind(《随风飘荡》)
-- [ ] Feelings(《情感》)
-- [ ] All I Have to Do is Dream(《只有寻梦去》)
-- [ ] Unchained Melody(《奔放的旋律》)
-- [ ] Today(《今日》)
-- [ ] You Don't Have to Say You Love Me(《无须说爱我》)
-- [ ] Unchained Melody(《奔放的旋律》)
-- [ ] Kiss Me Goodbye(《与我吻别》)
-- [ ] Changing Partners(《交换舞伴》)
-- [ ] Put Your Head on My Shoulder(《借你肩膀》)
-- [ ] Yellow Bird(《黄鸟》)
-- [ ] All for the Love of a Girl(《全为了一个女孩的爱》)
-- [ ] Speak Softly, Love(《细语言爱》)
-- [ ] Love Me Tender(《温柔地爱我》)
-- [ ] You Light up My Life(《你照亮我的生命》)
-- [ ] A Dear John Letter(《给约翰的一封信》)
-- [ ] Moon River(《月亮河》)
-- [ ] In The Morning(《清晨》)
-- [ ] Proud of You(《挥着翅膀的女孩》)
-- [ ] No More(《不再》)
-- [ ] Too Young(《太年轻》)
-- [ ] The Wedding(《婚礼》)
-- [ ] Rose Garden(《玫瑰花园》)
-- [ ] Sugar, Sugar(《亲爱的》)
-- [ ] Seven Lonely Days(《七天孤独》)
-- [ ] Morning has Broken(《破晓》)
-- [ ] I Don't Know How to Love Him(《我不知如何爱他》)
-- [ ] Top of the World(《世界之顶》)
-- [ ] I Went to Your Wedding(《我参加你的婚礼》)
-- [ ] There's A Kind of Hush(《爱的细语》)
-- [ ] Seasons in the Sun(《阳光季节》)
+Part 04 商业社会的常用英语
