@@ -1,6 +1,6 @@
 # 把你的英语用起来
 
-[学习路径]()
+[学习路径](https://raw.githubusercontent.com/AwareOf/rosetta-stone/master/English/%E6%8A%8A%E4%BD%A0%E7%9A%84%E8%8B%B1%E8%AF%AD%E7%94%A8%E8%B5%B7%E6%9D%A5%EF%BC%8C%E5%A5%B6%E7%88%B8.bmp)
 
 
 WIP
